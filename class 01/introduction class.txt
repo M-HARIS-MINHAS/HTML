@@ -1,0 +1,43 @@
+class 01:
+Full stack development/MERN STACK Development
+.)ui/ux --> figma,photoshop,xd
+.)ui:user interface/ux:user experience
+.)ui developer -->html,css
+
+*)front-end-developer
+1)html
+2)css
+3)javascript
+4)react js
+5)next js
+
+*)Backend Developer
+1)js
+2)node js
+3)mongodb
+4)expressjs
+
+MERN STACK Development
+M:mongodb
+E:expressjs
+R:react js
+N:node js
+
+
+Mobile APP Developer
+1)Javascript
+2)ReactNative
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML:skeleton ==>>structure
+css: beauty ==>>desginning
+javascript:brain ==>functionality
+vsscode:digital notepad ==>where we write code to explain computer
+syste  ->ek folder create kiya -->us folder ma cmd open kro --->cmd ma write kro code . ---->folder open ho gy ga
+
+
+
+
+
+
+inno suffian
