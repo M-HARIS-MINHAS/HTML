@@ -1,0 +1,19 @@
+revision 
+Full stack development = front-end-developer + Backend Developer 
+code where we write -->vs code 
+create folder 
+open with cmd and write vs code . 
+.html is extension 
+
+TODAY CLASS LESSON
+Element -->bracket wali cheez -->>Tags(opening Tags + closing Tags)
+closing tag is make with forwad shash
+
+Attribuitr --> extra information about an element tag
+           -->opening tag ka ander use krna hn
+Bold:chora
+italic:jhoom
+sup:top small
+sub:down small
+whitespaces and linebreak in html element are not possible
+to break line we have two  tags -->hr and br (hr will add an extra line in the break)

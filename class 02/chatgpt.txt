@@ -1,0 +1,33 @@
+Full Stack Development
+Full Stack Development = Front-End Developer + Back-End Developer
+
+Code Environment
+
+VS Code: Code editor where we write our programs.
+To open a folder in VS Code:
+Open the folder with Command Prompt (cmd).
+Type: code .
+.html is the file extension for HTML files.
+Today's Lesson
+
+
+Elements and Tags
+Element: Any structure enclosed in brackets < >, e.g., <p>.
+Tags:
+Opening Tag: <tagname>
+Closing Tag: </tagname> (has a forward slash before the tag name).
+
+Attributes
+Provide extra information about a tag.
+Usage: Inside the opening tag. Example: <a href="https://example.com">Link</a>.
+
+Formatting Tags
+Bold: <b> (Shows bold text).
+Italic: <i> (Shows slanted, italicized text).
+Superscript: <sup> (Smaller text raised to the top).
+Subscript: <sub> (Smaller text lowered to the bottom).
+Whitespace and Line Breaks in HTML
+Whitespace & Linebreaks: Extra spaces and line breaks are ignored in HTML.
+To break a line:
+<br>: Adds a line break.
+<hr>: Adds a horizontal line (used as a separator or extra line in the break).
